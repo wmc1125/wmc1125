@@ -1,8 +1,9 @@
 ## Hi there 👋🤓
+<!--
  <p>
   <img src="http://views.whatilearened.today/views/github/wmc1125/views.svg"/>
  </p>
-
+->
 🎉 Welcome to my Github! I'm **Eric** 😃
 
 
