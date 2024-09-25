@@ -12,10 +12,6 @@
 <!--### ⚡ Technologies-->
 
 
-### 👨‍💻 Open source work stats
-
-![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=wmc1125&show_icons=true)
-
 
 ### 📫 Reach me 
 
